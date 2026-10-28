@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Enterprise Architect temporary databases and lock files
+*.eap
+*.eapx
+*.feap
+*.qea
+*.qeax
+*.ldb
+
+# Local exports and scratch files
+exports/
+*.png
+*.jpg
+*.jpeg
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
